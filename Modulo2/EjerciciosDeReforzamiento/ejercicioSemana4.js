@@ -1,7 +1,7 @@
 //Ejercicio de reforzamiento. Semana 4 
 /* a mitad del proceso, fue cuando el sistema de inscripciones paro
 de funcionar, por lo el total de estudiantes que deben de inscribirse
-es el doble de los que estan ya inscritos */
+es la misma cantidad de los que estan ya inscritos */
 
 //Primero creamos una clase "estudiante" donde cada caracteristica
 //sera la informacion que se tiene cada alumno
